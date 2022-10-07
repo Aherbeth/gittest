@@ -1,2 +1,2 @@
-console.log('bonjour')
+global.console.log('bonjour')
 // un commentaire
